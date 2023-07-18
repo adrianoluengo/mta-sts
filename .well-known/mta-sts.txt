@@ -1,5 +1,4 @@
 version: STSv1
 mode: testing
-mx: *adrianoluengo.com
-mx: *adrianoluengo.com
+mx: mx: mx1.adrianoluengo.com
 max_age: 604800
